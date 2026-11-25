@@ -1,0 +1,32 @@
+{
+  "name": "Tomá el Control · Organizá tu sueldo",
+  "short_name": "Tomá el Control",
+  "description": "Método simple y honesto para organizar tu sueldo mensual sin deudas y con tranquilidad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "./icono-tomaelcontrol.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icono-tomaelcontrol.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icono-tomaelcontrol.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
